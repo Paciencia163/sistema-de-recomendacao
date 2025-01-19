@@ -1,8 +1,8 @@
+streamlit
 pandas
 Pillow
 numpy
 scikit-learn
 tensorflow>
 scikit-image
-tqdm                         4.67.1
 
